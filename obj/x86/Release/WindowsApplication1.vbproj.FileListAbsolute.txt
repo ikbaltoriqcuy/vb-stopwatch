@@ -1,0 +1,10 @@
+G:\Proyek\Vb\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.exe
+G:\Proyek\Vb\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.pdb
+G:\Proyek\Vb\WindowsApplication1\WindowsApplication1\bin\Release\WindowsApplication1.xml
+G:\Proyek\Vb\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form1.resources
+G:\Proyek\Vb\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Form2.resources
+G:\Proyek\Vb\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.Resources.resources
+G:\Proyek\Vb\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.vbproj.GenerateResource.Cache
+G:\Proyek\Vb\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.exe
+G:\Proyek\Vb\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.xml
+G:\Proyek\Vb\WindowsApplication1\WindowsApplication1\obj\x86\Release\WindowsApplication1.pdb
